@@ -1,5 +1,5 @@
 # joey-project
-Password strength che# Password Strength Checker
+ Password Strength Checker
 
 This is a Python project that checks the strength of a user's password based on several criteria including length, use of uppercase and lowercase letters, numbers, and special characters.
 
