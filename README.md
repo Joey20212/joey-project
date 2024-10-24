@@ -37,7 +37,7 @@ This is a Python project that checks the strength of a user's password based on 
    ```bash
    git clone https://github.com/yourusername/password-strength-checker.git
    cd password-strength-checker
-python password_strength_checker.py
+2. python password_strength_checker.py
 $ python password_strength_checker.py
-Enter a password: P@ssw0rd!
+3. Enter a password: P@ssw0rd!
 Password strength: Strong
